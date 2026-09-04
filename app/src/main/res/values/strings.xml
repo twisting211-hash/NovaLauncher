@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">NovaHome</string>
+    <string name="welcome_title">NovaHome-ga xush kelibsiz</string>
+    <string name="welcome_desc">NovaHome sizning asosiy bosh ekraningizga aylanishi mumkin. Tezkor, xavfsiz va minimal dizayn.</string>
+    <string name="set_as_default">Asosiy launcher sifatida o\'rnatish</string>
+    <string name="continue_to_home">Bosh ekranga o\'tish</string>
+    <string name="swipe_up_hint">Ilovalar</string>
+    <string name="search_hint">Ilovalarni qidirish...</string>
+    <string name="no_apps_found">Ilovalar topilmadi</string>
+    <string name="no_favorites_yet">Sevimli ilovalar yo\'q</string>
+    <string name="no_widgets_available">Vidjetlar mavjud emas</string>
+    
+    <!-- Long press menu -->
+    <string name="action_open">Ochish</string>
+    <string name="action_app_info">Ilova haqida</string>
+    <string name="action_uninstall">O\'chirish</string>
+    <string name="action_add_favorite">Sevimlilarga qo\'shish</string>
+    <string name="action_remove_favorite">Sevimlilardan olish</string>
+    <string name="action_hide_app">Ilovani yashirish</string>
+    <string name="action_unhide_app">Yashirishdan chiqarish</string>
+    <string name="action_add_shortcut">Bosh ekranga qo\'shish</string>
+    <string name="action_remove_shortcut">Olib tashlash</string>
+    
+    <!-- Customization / Edit mode -->
+    <string name="customize_title">Moslashtirish</string>
+    <string name="customize_wallpaper">Fon rasmi</string>
+    <string name="customize_widgets">Vidjetlar</string>
+    <string name="customize_settings">Sozlamalar</string>
+    <string name="customize_add_app">Ilova qo\'shish</string>
+    <string name="customize_done">Tayyor</string>
+    <string name="add_page">Yangi sahifa qo\'shish</string>
+    <string name="remove_page">Sahifani o\'chirish</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">NovaHome Sozlamalari</string>
+    <string name="section_appearance">Ko\'rinish</string>
+    <string name="setting_theme">Mavzu</string>
+    <string name="theme_system">Tizim standarti</string>
+    <string name="theme_dark">Qorong\'i</string>
+    <string name="theme_light">Yorug\'</string>
+    
+    <string name="setting_icon_shape">Belgilar shakli</string>
+    <string name="shape_circle">Aylana</string>
+    <string name="shape_rounded">Yumaloq burchakli</string>
+    <string name="shape_squircle">Skvinkl</string>
+    <string name="shape_square">To\'rtburchak</string>
+    
+    <string name="setting_icon_size">Belgilar hajmi</string>
+    <string name="size_small">Kichik</string>
+    <string name="size_medium">O\'rtacha</string>
+    <string name="size_large">Katta</string>
+    
+    <string name="setting_grid_size">Bosh ekran to\'ri</string>
+    <string name="grid_4x4">4 x 4</string>
+    <string name="grid_4x5">4 x 5</string>
+    <string name="grid_5x5">5 x 5</string>
+    
+    <string name="section_home_screen">Bosh ekran</string>
+    <string name="setting_clock_format">24 soatlik format</string>
+    <string name="setting_show_seconds">Soniyalarni ko\'rsatish</string>
+    <string name="setting_show_date">Sanani ko\'rsatish</string>
+    <string name="setting_show_weather">Ob-havo ko\'rsatkichi</string>
+    <string name="setting_show_dock">Pastki panel (Dok) ko\'rinishi</string>
+    <string name="setting_dock_icons">Dokdagi ilovalar soni</string>
+    <string name="setting_show_labels">Ilova nomlarini ko\'rsatish</string>
+    
+    <string name="section_wallpaper">Fon rasmi</string>
+    <string name="wallpaper_use_system">Tizim fon rasmidan foydalanish</string>
+    <string name="wallpaper_pick_gallery">Galereyadan rasm tanlash</string>
+    <string name="wallpaper_dark_overlay">Qoraytirilgan qatlam</string>
+    <string name="wallpaper_blur">Xiralashtirish effekti</string>
+    
+    <string name="section_apps">Ilovalar va Saralash</string>
+    <string name="setting_sort_order">Ilovalarni saralash</string>
+    <string name="sort_alphabetical">Alifbo bo\'yicha (A-Z)</string>
+    <string name="sort_most_used">Eng ko\'p ishlatilgan</string>
+    <string name="setting_hidden_apps">Yashirilgan ilovalar</string>
+    <string name="no_hidden_apps">Yashirilgan ilovalar yo\'q</string>
+    
+    <string name="section_behavior">Harakatlar va Unumdorlik</string>
+    <string name="setting_performance_mode">Unumdorlik (Tezkor) rejimi</string>
+    <string name="setting_performance_mode_desc">Animatsiyalarni o\'chiradi va kam quvvatli qurilmalarda tezlikni oshiradi</string>
+    <string name="setting_reduce_animations">Animatsiyalarni kamaytirish</string>
+    <string name="setting_haptic">Bosishda tebranish (Haptic)</string>
+    <string name="setting_double_tap_lock">Ikki marta bosib ekran qulflash</string>
+    
+    <string name="section_about">NovaHome Haqida</string>
+    <string name="about_version">Versiya 1.0.0</string>
+    <string name="about_tech">Kotlin va Jetpack Compose bilan yaratilgan</string>
+    <string name="about_privacy">Maxfiylik kafolatlangan: NovaHome hech qanday shaxsiy ma\'lumotlarni to\'plamaydi, reklamalar va kuzatuvlardan xoli to\'liq oflayn ishlaydi.</string>
+    <string name="system_recents">So\'nggi ilovalar (Tizim)</string>
+</resources>
